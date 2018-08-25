@@ -1,4 +1,4 @@
-# Technische Dokumentation von BFH Smart City Challenge 2018
+# Technische Dokumentation
 Berner Hackathon 2018 - Smart City BFH Challenenge
 
 ## Ausgangslage
