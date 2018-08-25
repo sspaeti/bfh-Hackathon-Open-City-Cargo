@@ -1,5 +1,5 @@
 # Technische Dokumentation
-Berner Hackathon 2018 - Smart City BFH Challenenge
+BärnHäckt 2018 - Smart City BFH Challenenge
 
 ## Ausgangslage
 Da wir in unserer Challenge viel Konzeptionell unterwegs waren, haben wir uns für die technische Umsetzung einen spezifischen Use Case ausgesucht der im ganzen Prozess abgewickelt werden. Der Use Case ist aus Sicht eines Zusteller. Dieser kann in einer Web-App (Microsoft PowerApps) alle offenen Pakete einsehen und sich seine Auswählen welche er ausliefern möchte.
