@@ -16,11 +16,11 @@ Wir haben uns für Microsoft PowerApps mit SQL Server auf Azure entschieden, dam
 PowerApps sind auch optimiert für Smartphones, Tablets und Notebooks out-of-the-box.
 
 ## Implementation
-	- Google Maps Karte wurde über Google API implementiert, aufgrund der maximalen Map Aufrufe von 200 pro Tag haben wir die Bilder generiert und zeigen diese statisch an.
-	- Die App ist auf Cloud-Lösung und einfach skalierbar. Die App ist mit einfach Wartbar und mit standard Software von Microsoft PowerApps erstellt.
-	- Wir haben uns bewusst auf einen Use Case beschränkt, da es nicht möglich ist eine ganze SmartCity Lösung umzusetzen und das Hauptprodukt eine konzeptionellen Lösung ist.
+- Google Maps Karte wurde über Google API implementiert, aufgrund der maximalen Map Aufrufe von 200 pro Tag haben wir die Bilder generiert und zeigen diese statisch an.
+- Die App ist auf Cloud-Lösung und einfach skalierbar. Die App ist mit einfach Wartbar und mit standard Software von Microsoft PowerApps erstellt.
+- Wir haben uns bewusst auf einen Use Case beschränkt, da es nicht möglich ist eine ganze SmartCity Lösung umzusetzen und das Hauptprodukt eine konzeptionellen Lösung ist.
 
 ## Aktueller Stand des Sourcecodes
-	- Source-code ist die Web-App als Microsoft PowerApps export und SQL Server Tabellen.
-	- Die SQL Tabellen wurden optimiert für die PowerApps und bewusst einfach und denormalisiert gehalten. Bei einer richtigen Applikation würde man dies normalisieren und Datenbank optimiert erstellen
+- Source-code ist die Web-App als Microsoft PowerApps export und SQL Server Tabellen.
+- Die SQL Tabellen wurden optimiert für die PowerApps und bewusst einfach und denormalisiert gehalten. Bei einer richtigen Applikation würde man dies normalisieren und Datenbank optimiert erstellen
 Link to repo: https://github.com/sspaeti/bfh-Hackathon-Open-City-Cargo
