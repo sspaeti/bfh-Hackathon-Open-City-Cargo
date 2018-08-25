@@ -23,4 +23,7 @@ PowerApps sind auch optimiert für Smartphones, Tablets und Notebooks out-of-the
 ## Aktueller Stand des Sourcecodes
 - Source-code ist die Web-App als Microsoft PowerApps export und SQL Server Tabellen.
 - Die SQL Tabellen wurden optimiert für die PowerApps und bewusst einfach und denormalisiert gehalten. Bei einer richtigen Applikation würde man dies normalisieren und Datenbank optimiert erstellen
-Link to repo: https://github.com/sspaeti/bfh-Hackathon-Open-City-Cargo
+Link zum WebApp Source code: [Open City Cargo PowerApp](https://github.com/sspaeti/bfh-Hackathon-Open-City-Cargo/blob/master/Open%20City%20Cargo%20V1_1.msapp)
+- [Power App Screenshots und Beschreibung](https://github.com/sspaeti/bfh-Hackathon-Open-City-Cargo/blob/master/PowerApp%20Description.md)
+
+
