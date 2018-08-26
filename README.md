@@ -10,7 +10,7 @@ Automatisch werden ihm Vergütungen entsprechend seiner Auswahl errechnet.
 ### Vergütungen
 Die Vergütung wird nach Auslastung seines Fahrzeuges, CO2 Emission und Lärm berechnet. Falls er sich anbietet Rücktransporte auf dem Weg zurück aufzunehmen, wird ihm je nach aktuellen offenen Paketen einen variablen Preis vergütet.
 
-Technische Grundsatzentscheide
+## Technische Grundsatzentscheide
 Wir haben uns für Microsoft PowerApps mit SQL Server auf Azure entschieden, damit wir Backend und Frontend mit einer vorhandenen Internet-Verbindung von überall erreichen können. Zusätzlich ist die Lösung beliebend skalierbar falls wir viele Users in kurzer Zeit haben werden. PowerApps sind auch optimiert für Smartphones, Tablets und Notebooks out-of-the-box.
 
 Die Lösung eignet sich vor allem für schnelles Prototyping. Für eine produktive Umgebung würden wir jedoch andere Technologien und Produkte in Erwägung ziehen.
