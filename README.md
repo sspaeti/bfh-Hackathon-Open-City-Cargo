@@ -2,7 +2,7 @@
 BärnHäckt 2018 - Smart City BFH Challenenge
 
 ## Ausgangslage
-Da wir in unserer Challenge viel konzeptionell gearbeitet haben, haben wir uns für die technische Umsetzung einen spezifischen Use Case ausgesucht, der im ganzen Prozess abgewickelt wird. Der Use Case ist aus Sicht eines Zustellers. Dieser kann in einer Web-App (Microsoft PowerApps) alle offenen Pakete einsehen und sich seine auswählen, welche er ausliefern möchte.
+Da wir in unserer Challenge viel konzeptionell (siehe [Konzeptionelle Dokumentation](https://github.com/sspaeti/bfh-Hackathon-Open-City-Cargo/blob/master/Konzept.md)) gearbeitet haben, haben wir uns für die technische Umsetzung einen spezifischen Use Case ausgesucht, der im ganzen Prozess abgewickelt wird. Der Use Case ist aus Sicht eines Zustellers. Dieser kann in einer Web-App (Microsoft PowerApps) alle offenen Pakete einsehen und sich seine auswählen, welche er ausliefern möchte.
 Da er seine Fahrzeuge hinterlegt hat, werden nur Pakete angezeigt, die seinen Dimensionen des Fahrzeugs entsprechen. 
 
 Automatisch werden ihm Vergütungen entsprechend seiner Auswahl errechnet.
