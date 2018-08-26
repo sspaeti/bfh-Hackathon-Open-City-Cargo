@@ -50,7 +50,7 @@ Nicht ökologische und verkehrsbehindernde Transporte (insbesondere LKW) werden 
  - Es können auch mehrere Lieferadressen erfasst werden wie Geschäft, Home und Grosseltern. Das Kundenportal zeigt einem automatisch die günstigste Lieferung und somit auch die ökologischste Adresse an.
  - Gewünschter Lieferzeitpunkt wählen optimiert auf die Umwelt. Falls an Tagen an denen Zulieferer freien Platz auf Autos haben, können diese ökologisch und preisgünstiger angeboten werden. In Rushhours wo viele Pakete ausgeliefert werden und evtl. Extra-Fahrten für einzelne Pakete gemacht würden, ist der Preis dementsprechend teurer.
 
-Eingesetzte Technologien
+## Eingesetzte Technologien
 - Blockchain
   - Versandkette des Pakets nachvollziehbar und unveränderbar dokumentieren
   - Vergütung könnte optional über Crypto Währung ausbezahlt werden
@@ -65,3 +65,4 @@ Eingesetzte Technologien
 - Microsoft PowerApps
   - Einfache Erstellung eines Prototyps optimiert für Geschäfts-Apps, und Einbindung in existierende Prozesse.
   - Mehr dazu in der Technischen Dokumentation (https://github.com/sspaeti/bfh-Hackathon-Open-City-Cargo)
+  
