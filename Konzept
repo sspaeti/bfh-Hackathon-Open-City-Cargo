@@ -1,0 +1,41 @@
+# Konzept
+BärnHäckt 2018 - Smart City BFH Challenenge
+
+## Ausgangslage
+
+
+### Vergütungen
+
+
+	- Technologien
+		○ Blockchain
+			§ Vergütung
+			§ Versandkette des Pakets nachvollziehbar dokumentieren
+		○ IoT, RFID
+			§ Tracking der Pakete
+		○ Gov Open Data
+		○ Anbindung an CPaaS.io
+	- Bonus-/Malus-System
+		○ Leerfahrten (pain)
+		○ Elektromobil
+		○ Rücktransporte -> variable Vergütung
+	- Regeln/Gesetze
+		○ Verbieten wir aktiv z.B. Verbrennungsmotoren?Oder regelt sich das it dem Bonus-/Malus-System?
+Stadtfest -> Verkehr über Preis regulieren
+
+
+	- Kundenkonto
+		○ Verschiedene Lieferadressen in zentralem Portal erfassen
+	- Bestellung aufgeben
+Gewünschter Lieferzeitpunkt wählen (evtl. andere Lieferadresse, da günstiger)
+
+
+	- Delivering to a central place where the fine delivery is made
+		○ To fill trucks more
+	- Use What3Words for a more specific delivery (no waste of time and fuel to search around)
+	- Eliminate delivery if nobody is home
+		○ Have a smart system where you can see where the person is
+	- Have a plattform where delivery firms like Zalando, post etc must register
+		○ So you can see what's the best optimal eco friendly route to fill trucks 100%
+		○ Limit amount of bigger cars in centrum
+	- Model that you pay when you enter bern
